@@ -1,0 +1,103 @@
+{
+	"datas": [
+		{
+			"id": 10,
+			"owner": "sender",
+			"name": "煮温酒",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "在吗？",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 11,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-f4bdf183bf-3a8241-d3d944",
+			"content": "咋了？找我有事吗？",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 12,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "没啥就像看看你在不在",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 13,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "下面开始介绍Flutter",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 14,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 15,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "就这？？？",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 16,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 17,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "到底啥事你说啊，我还在工作呢",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 18,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "Flutter为开发人员提供了广泛的工具和自定义选项，使他们能够创建具有创新性和独特外观的应用程序。通过组合和调整小部件、绘图和样式，您可以完全按照自己的需求来定制Flutter应用程序的用户界面",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 19,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "Widget是一个声明式的UI元素，用于描述应用程序的界面的外观和行为",
+			"created_time": 1695719503,
+			"message_type": 0
+		},
+		{
+			"id": 20,
+			"owner": "receiver",
+			"name": "reveicer",
+			"avatar": "https://gavatar.gateimg.com/groupchat/avatar-80dd5d588d-97e203976c-3a8241-d3d944",
+			"content": "小部件具有声明性的特性，这意味着您只需描述UI的外观和行为，而不需要手动管理UI的更新和重绘。Flutter的渲染引擎会负责根据小部件树的变化来自动更新UI。这种声明式的方法使得开发者能够更轻松地构建复杂的用户界面，并维护良好的性能。",
+			"created_time": 1695719503,
+			"message_type": 0
+		}
+	]
+}
